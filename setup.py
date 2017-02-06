@@ -7,7 +7,7 @@ setup(
   description = 'Script to ease few Android development',
   author = 'Arjun Gurudatta Hegde',
   author_email = 'arjunhegde777@gmail.com',
-  url = 'https://github.com/MrRobot9/android-tool, # use the URL to the github repo
+  url = 'https://github.com/MrRobot9/android-tool', # use the URL to the github repo
   keywords = ['android-tool','localization'], # arbitrary keywords
   license='MIT', 
   classifiers = [],
